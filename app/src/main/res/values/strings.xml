@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="open_url">Open URL</string>
+    <string name="show_alarms">Show Alarms</string>
+    <string name="call">Call</string>
+    <string name="free_actions">Free Actions</string>
+    <string name="need_permission">We Need Your Permission</string>
+    <string name="send_email">Send Email</string>
+    <string name="send_sms">Send SMS</string>
+    <string name="search">Search</string>
+    <string name="pick_image">Pick Image From Gallery</string>
+    <string name="select_picture">Select a Picture</string>
+    <string name="take_photo">Take a Photo</string>
+    <string name="share">Share</string>
+</resources>
